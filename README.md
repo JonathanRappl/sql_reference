@@ -19,8 +19,6 @@ Die Datenbank hat sieben wichtige Tabellen:
 - Ein **Mitarbeiter** bearbeitet mehrere Bestellungen, aber jede Bestellung wird nur von einem Mitarbeiter bearbeitet.
 - Eine **Versandfirma** liefert mehrere Bestellungen aus, aber jede Bestellung wird nur von einer Versandfirma geliefert.
 
-Das *ER-Diagramm* zeigt aus Platzgründen nur die wichtigsten Daten. Eine ausführlichere Version kann ebenfalls angesehen werden.
-
 # Tabellenübersicht der Nordwind-Datenbank
 
 ## **Lieferant**  
